@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "DANDI Team"
 layout: gridlay
 excerpt: "Members"
 sitemap: false

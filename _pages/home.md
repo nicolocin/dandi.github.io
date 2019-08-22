@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "DANDI Home"
 layout: homelay
 excerpt: "Home"
 sitemap: false

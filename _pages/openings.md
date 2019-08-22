@@ -1,5 +1,5 @@
 ---
-title: "Openings"
+title: "DANDI Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
