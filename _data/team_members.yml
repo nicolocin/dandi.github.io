@@ -4,9 +4,19 @@
   email: satra@mit.edu
   number_educ: 4
   education1: PhD Cognitive and Neural Systems, Boston University
-  education2: Director of Data Models and Integration of ReproNim <a href="https://repronim.org/">ReproNim</a>
+  education2: Director of Data Models and Integration of <a href="https://repronim.org/">ReproNim</a>
   education3: <a href="https://neurocommons.biomedcentral.com/">Co-Editor-In-Chief BMC NeuroCommons</a>
   education4: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
+
+- name: Yaroslav O Halchenko
+  photo: http://centerforopenneuroscience.org/theme/img/team/yarik.jpg
+  info: Research Associate Professor at PBS, Dartmouth College
+  email: yoh@onerussian.com
+  number_educ: 4
+  education1: PhD Computer Science, NJIT
+  education2: Director of <a href="http://centerforopenneuroscience.org">Center for Open Neuroscience</a>
+  education3: A founder and lead of <a href="http://www.pymvpa.org/">PyMVPA</a>, <a href="http://neuro.debian.net/">NeuroDebian</a>, <a href="https://www.datalad.org">DataLad</a> and other projects
+  education4: <a href="http://www.onerussian.com/resume/halchenko_vita.pdf">Full CV</a>
 
 - name: Ben Dichter
   photo: https://avatars3.githubusercontent.com/u/844306?s=460&v=4
