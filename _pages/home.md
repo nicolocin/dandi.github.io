@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Distributed Archives for Neurophysiology Data Integration (DANDI) is a platform for publishing, sharing, and processing neurophysiology data
+DANDI: Distributed Archives for Neurophysiology Data Integration is a platform for publishing, sharing, and processing neurophysiology data
 funded by the [BRAIN Initiative](https://braininitiative.nih.gov/). The platform 
 is under construction with an initial release slated for end of September 2019.
 
