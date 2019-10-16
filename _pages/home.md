@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+**Help us help you! Please take our [survey](https://docs.google.com/forms/d/e/1FAIpQLScT0KLxT8pgQ4y6_Wqa_1IPHKJOrxGJ6nPMwxh1QS3od3P1lw/viewform) by Nov 1 so we can learn about your data needs.**
+
 DANDI: Distributed Archives for Neurophysiology Data Integration is a platform for publishing, sharing, and processing neurophysiology data
 funded by the [BRAIN Initiative](https://braininitiative.nih.gov/). The platform 
 is under construction with an initial release slated for end of September 2019.
@@ -27,6 +29,7 @@ Our goals for the archive, we think, are rather simple:
 6. The archive is not just an endpoint to dump data, it is intended as a living 
    repository that enables collaboration within and across labs, and for others,
    the entry point for research.
+   
 
 ### Proposed DANDI architecture
 
