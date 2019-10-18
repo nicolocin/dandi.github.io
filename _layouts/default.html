@@ -3,10 +3,13 @@
 
   {% include head.html %}
 
-  <body>
+  <body {% if page.title == "DANDI Home" %}class="home"{% endif %}>
 
     {% include header.html %}
 
+    {% if page.title == "DANDI Home" %}
+      {% include home-banner.html %}
+    {% endif %}
     <div class="container-fluid">
       <div class="row">
         {{ content }}
