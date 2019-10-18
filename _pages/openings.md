@@ -12,4 +12,4 @@ learning, and the willingness to experiment with new ideas and technologies.
 
 ## Current open positions
 
-There are no job openings at the moment.
+1. [Postdoc at MIT](https://satra.cogitatum.org/group/vacancies)
