@@ -3,7 +3,7 @@ title: "DANDI Team"
 layout: gridlay
 excerpt: "Members"
 sitemap: false
-permalink: /team/
+permalink: /team
 ---
 
 # Members
