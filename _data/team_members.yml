@@ -27,3 +27,12 @@
   education2: Community Liaison of NWB and DANDI
   education3: Lead Data Scientist of Ripple U19 (PI Soltesz) at Stanford University
   education4: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
+  
+  - name: Mike Grauer
+  photo: https://www.kitware.com/main/wp-content/uploads/2016/10/grauer-1024x1024.jpg
+  info: Technical Leader at Kitware, Inc.
+  email: michael.grauer@kitware.com
+  number_educ: 3
+  education1: MS Computer Science, Drexel University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+  education3: <a href="https://www.kitware.com/michael-grauer/">CV</a>
