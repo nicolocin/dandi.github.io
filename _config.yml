@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   funded by the [BRAIN Initiative](https://braininitiative.nih.gov/). The platform
   is under construction with an initial release slated for end of September 2019.
 baseurl: /
-url: https://dandiarchive.org
+url: https://www.dandiarchive.org
 
 include:
   - .htaccess
